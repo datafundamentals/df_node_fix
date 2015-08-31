@@ -1,0 +1,7 @@
+name 'df_node_fix'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures df_node_fix'
+long_description 'Installs/Configures df_node_fix'
+version '0.1.0'
